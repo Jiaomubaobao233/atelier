@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yefan Zhi Atelier</title>
-    <link>jiaomubaobao233.github.io/atelier/tags/</link>
+    <link>https://jiaomubaobao233.github.io/atelier/tags/</link>
     <description>Recent content in Tags on Yefan Zhi Atelier</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="jiaomubaobao233.github.io/atelier/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jiaomubaobao233.github.io/atelier/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

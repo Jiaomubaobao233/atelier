@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yefan Zhi Atelier</title>
-    <link>jiaomubaobao233.github.io/atelier/categories/</link>
+    <link>https://jiaomubaobao233.github.io/atelier/categories/</link>
     <description>Recent content in Categories on Yefan Zhi Atelier</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="jiaomubaobao233.github.io/atelier/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jiaomubaobao233.github.io/atelier/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
