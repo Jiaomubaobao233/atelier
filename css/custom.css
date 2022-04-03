@@ -150,6 +150,7 @@ hr {
 .box-masonry img {
   filter: grayscale(100%);
 }
+/*
 .box-masonry-image:hover {
   filter:opacity(30%)
-}
+}*/
