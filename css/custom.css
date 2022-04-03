@@ -142,3 +142,14 @@ a:hover.post-meta, a:active.post-meta {
       width:60%;
   }
 }*/
+hr {
+  border-top: 0px /*1px solid #cdcdcd;*/
+}
+
+
+.box-masonry img {
+  filter: grayscale(100%);
+}
+.box-masonry-image:hover {
+  filter:opacity(30%)
+}
