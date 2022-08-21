@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jiaomubaobao233.github.io/atelier/about/</loc>
-    <lastmod>2022-02-27T14:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://jiaomubaobao233.github.io/atelier/</loc>
-    <lastmod>2022-02-27T14:00:00-05:00</lastmod>
+    <loc>https://jiaomubaobao233.github.io/atelier/tags/architecture/</loc>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jiaomubaobao233.github.io/atelier/tags/computation/</loc>
-    <lastmod>2021-12-18T14:00:00-05:00</lastmod>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://jiaomubaobao233.github.io/atelier/tags/fabrication/</loc>
-    <lastmod>2021-12-18T14:00:00-05:00</lastmod>
+    <loc>https://jiaomubaobao233.github.io/atelier/portfolio/0170-kath-kuni-interpretation/</loc>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jiaomubaobao233.github.io/atelier/portfolio/</loc>
-    <lastmod>2021-12-18T14:00:00-05:00</lastmod>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jiaomubaobao233.github.io/atelier/tags/structure/</loc>
-    <lastmod>2021-12-18T14:00:00-05:00</lastmod>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jiaomubaobao233.github.io/atelier/tags/</loc>
-    <lastmod>2021-12-18T14:00:00-05:00</lastmod>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jiaomubaobao233.github.io/atelier/</loc>
+    <lastmod>2022-04-29T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jiaomubaobao233.github.io/atelier/portfolio/0160-etfedora/</loc>
+    <lastmod>2022-04-26T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jiaomubaobao233.github.io/atelier/tags/fabrication/</loc>
+    <lastmod>2022-03-31T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jiaomubaobao233.github.io/atelier/portfolio/0150-tensegrity-woven-chair-copy/</loc>
+    <lastmod>2022-03-31T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://jiaomubaobao233.github.io/atelier/about/</loc>
+    <lastmod>2022-02-27T14:00:00-05:00</lastmod>
   </url><url>
     <loc>https://jiaomubaobao233.github.io/atelier/portfolio/0140-the-heartbeat/</loc>
     <lastmod>2021-12-18T14:00:00-05:00</lastmod>
